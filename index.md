@@ -4,12 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
-
+I am a undergraudate Y3 student at BNU-HKBU UIC (known as the Mainland Campus of HKBU), major in Data Science, Dept. of Stat and DS.
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Image Processing:** image recognition, image generation, video captioning
+- **Opreation Research:** meta-learning, incremental learning, transfer learning
 
 ## News
 
