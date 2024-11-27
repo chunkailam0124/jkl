@@ -12,7 +12,7 @@ I am a undergraudate student at BNU-HKBU UIC (known as the Mainland Campus of HK
 
 ## News
 
-- **[Dec. 2024]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+- **[Dec. 2024]** UM - Game-Playing Strength of MCTS Variants (Kaggle) [Ranking: 5%]
 - **[Sept. 2023]** RSNA 2023 Abdominal Trauma Detection (Kaggle) [Ranking: 11%]
 - **[Sept. 2023]** China Undergraduate Mathematical Contest in Modeling (CUMCM) [Province 3rd Prize]
 - **[Aug. 2023]** 2023 International Mathematical Modeling Contest For High Education [Finalist Prize]
