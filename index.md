@@ -18,10 +18,11 @@ I am a undergraudate student at BNU-HKBU UIC (known as the Mainland Campus of HK
 - **[Aug. 2023]** 2023 International Mathematical Modeling Contest For High Education [Finalist Prize]
 
 ## Academic Project
+- **[Nov.-Dec. 2024]** STAT4073 Data Mining: **Heart Disease Data Analytics and Prediction base on TabNet**, Teacher: Dr. Rui MENG (UIC)
 - **[Oct.2024-Present]** **Customer Data Analysis and Market Potential Exploration of China Mobile (Hong Kong)**, Supervisor: Dr. Lianmin ZHANG (SRIBD & CUHK Shenzhen)
 - **[Aug.2024-Present]** **Recognition of Electrical Signals from Third-generation DNA Sequencing Machines**, Supervisor: Dr. Juile Qiaojin LIN (HKUST Guangzhou)
-- **[Mar.-Jun. 2024]** Database Management Systems: **“U-Dream” A Study Abroad Information Query Platform**, **Selection Poster in UIC 2nd Dept. of Computer Science-Data Science Poster Conference 2024**, Supervisor: Mr. Tian TANG (UIC) 
-- **[Mar.-Jun. 2024]** Data Processing Workshop II: **eBooks Text Search Engine & CO2 Emissions Data Analytic**, Supervisor: Dr. John Changjiang ZHANG (WKU)
+- **[Mar.-Jun. 2024]** COMP3013 Database Management Systems: **“U-Dream” A Study Abroad Information Query Platform**, **Selection Poster in UIC 2nd Dept. of Computer Science-Data Science Poster Conference 2024**, Supervisor: Mr. Tian TANG (UIC) 
+- **[Mar.-Jun. 2024]** DS3043 Data Processing Workshop II: **eBooks Text Search Engine & CO2 Emissions Data Analytic**, Teacher: Dr. John Changjiang ZHANG (WKU)
 - **[Oct. 2023-Jun. 2024]** **Cell Slices and Perform Clustering Analysis using Machine Learning**, Supervisor: Dr. Jiaxin CHEN (UIC)
 
 ## Intern and Visit
