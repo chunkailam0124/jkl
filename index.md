@@ -8,7 +8,7 @@ I am a undergraudate student at BNU-HKBU UIC (known as the Mainland Campus of HK
 ## Research Interests
 
 - **Image Processing:** Medical Image Recognition, AI4Science, Deep Learning with Biomedical Science
-- **Opreation Research:** Interligent Transfortation, Logistics, Geo-informatics
+- **Opreation Research:** Optimization, Interligent Transfortation, Logistics, Geo-informatics
 
 ## News and Awards
 
