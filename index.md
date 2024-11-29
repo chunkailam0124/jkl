@@ -12,6 +12,8 @@ I am a undergraudate student at BNU-HKBU UIC (known as the Mainland Campus of HK
 
 ## Education
 - **[Sept. 2022-Jun. 2026 (Expected)]** B.Sc (Hons) in Data Science, **Hong Kong Baptist University**
+
+
 ## News and Awards
 
 - **[Dec. 2024]** UM - Game-Playing Strength of MCTS Variants (Kaggle) [Ranking: 5%, Siliver Prize]
