@@ -10,6 +10,9 @@ I am a undergraudate student at BNU-HKBU UIC (known as the Mainland Campus of HK
 - **Image Processing:** Medical Image Recognition, AI4Science, Deep Learning with Biomedical Science
 - **Opreation Research:** Optimization, Interligent Transfortation, Logistics, Geo-informatics
 
+I am seeking for **MPhil-PhD position for 2026 Fall**,  If you are interested and would like to give me an interview, please contact me by email~
+
+
 ## Education
 - **[Sept. 2022-Jun. 2026 (Expected)]** B.Sc (Hons) in Data Science, **Hong Kong Baptist University**
 
@@ -32,6 +35,8 @@ I am a undergraudate student at BNU-HKBU UIC (known as the Mainland Campus of HK
 ## Intern and Visit
 - **[Oct. 2024-Present]** Join **CUHK (Shenzhen) & SRIBD** as Research Intern in Logistics and Smart City following Dr. Lianmin ZHANG
 - **[Aug.-Sept. 2024]** Join **HKUST (Guangzhou)** as Research Intern in Bioinformatics following Dr. Juile Qiaojin LIN
+
+I am seeking for **Research Intern/Visit Student** position for 2025 Summer.
 
 {% include_relative _includes/publications.md %}
 
