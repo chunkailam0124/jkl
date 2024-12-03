@@ -7,8 +7,8 @@ layout: homepage
 I am a undergraudate student at BNU-HKBU UIC (known as the Mainland Campus of HKBU), major in Data Science, Dept. of Statistics and Data Science.
 ## Research Interests
 
-- **Image Processing:** Medical Image Recognition, AI4Science, Deep Learning with Biomedical Science
-- **Opreation Research:** Optimization, Interligent Transfortation, Logistics, Geo-informatics
+- **Image Processing:** Medical Image Recognition, AI4Science, Remote Sensing
+- **Opreation Research:** Optimization, Interligent Transfortation, Geo-informatics with Climate, Logistics 
 
 I am seeking for **MPhil-PhD position for 2026 Fall**,  If you are interested and would like to give me an interview, please contact me by email~
 
@@ -25,7 +25,7 @@ I am seeking for **MPhil-PhD position for 2026 Fall**,  If you are interested an
 - **[Aug. 2023]** 2023 International Mathematical Modeling Contest For High Education [Finalist Prize]
 
 ## Academic Project
-- **[Nov.-Dec. 2024]** STAT4073 Data Mining: **Heart Disease Data Analytics and Prediction base on TabNet**, Teacher: Dr. Rui MENG (UIC)
+- **[Nov.-Dec. 2024]** STAT4073 Data Mining: **US President Sentiment Analysis of Presidential Elections using Transformer**, Teacher: Dr. Rui MENG (UIC)
 - **[Oct.2024-Present]** **Customer Data Analysis and Market Potential Exploration of China Mobile (Hong Kong)**, Supervisor: Dr. Lianmin ZHANG (SRIBD & CUHK Shenzhen)
 - **[Aug.2024-Present]** **Recognition of Electrical Signals from Third-generation DNA Sequencing Machines**, Supervisor: Dr. Juile Qiaojin LIN (HKUST Guangzhou)
 - **[Mar.-Jun. 2024]** COMP3013 Database Management Systems: **“U-Dream” A Study Abroad Information Query Platform**, **Selection Poster in UIC 2nd Dept. of Computer Science-Data Science Poster Conference 2024**, Supervisor: Mr. Tian TANG (UIC) 
