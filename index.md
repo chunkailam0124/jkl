@@ -14,12 +14,12 @@ I am seeking for **MPhil-PhD position for 2026 Fall**,  If you are interested an
 
 
 ## Education
-- **[Sept. 2022-Jun. 2026 (Expected)]** B.Sc (Hons) in Data Science, **Hong Kong Baptist University**
+- **Sept. 2022-Jun. 2026 (Expected)** B.Sc (Hons) in Data Science, **Hong Kong Baptist University**
 
 
 ## News and Awards
 
-- **[Dec. 2024]** UM - Game-Playing Strength of MCTS Variants (Kaggle) [Ranking: 5%, Siliver Prize]
+- **[Dec. 2024]** UM - Game-Playing Strength of MCTS Variants (Kaggle) [Ranking: 10%, Bronze Medal]
 - **[Sept. 2023]** RSNA 2023 Abdominal Trauma Detection (Kaggle) [Ranking: 11%]
 - **[Sept. 2023]** China Undergraduate Mathematical Contest in Modeling (CUMCM) [Province 3rd Prize]
 - **[Aug. 2023]** 2023 International Mathematical Modeling Contest For High Education [Finalist Prize]
