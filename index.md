@@ -18,26 +18,24 @@ I am seeking for **MPhil(MS)-PhD position for 2026 Fall**,  If you are intereste
 
 
 ## News and Awards
-
+- **[Jun. 2025]** BYU - Locating Bacterial Flagellar Motors 2025 (Kaggle)  [Ranking: 8%, Bronze Medal]
 - **[Mar. 2025]** CIBMTR - Equity in post-HCT Survival Predictions (Kaggle)  [Ranking: 12%, Protential Bronze]
 - **[Dec. 2024]** UM - Game-Playing Strength of MCTS Variants (Kaggle) [Ranking: 10%, Bronze Medal]
 - **[Sept. 2023]** RSNA 2023 Abdominal Trauma Detection (Kaggle) [Ranking: 11%, Protential Bronze]
 - **[Sept. 2023]** China Undergraduate Mathematical Contest in Modeling (CUMCM) [Province 3rd Prize]
-- **[Aug. 2023]** 2023 International Mathematical Modeling Contest For High Education [Finalist Prize]
 
 ## Academic Project
-- **[Nov.-Dec. 2024]** STAT4073 Data Mining: **US President Sentiment Analysis of Presidential Elections using Transformer-XLNet**, Supervisor: Dr. Rui MENG (BNBU)
-- **[Oct.2024-Present]** **Customer Data Analysis and Market Potential Exploration of China Mobile (Hong Kong)**, Supervisor: Dr. Lianmin ZHANG (SRIBD & CUHK Shenzhen)
+- **[May 2025-Present]** Graduation Thesis (FYP): **Design and Analysis Algorithms of Cluster Analysis base on VGCN and SVC/TSVM(Classification)**, Supervisor: Dr. A.M. Elsawah (BNBU)
 - **[Aug.2024-Present]** **Recognition of Electrical Signals from Third-generation DNA Sequencing Machines**, Supervisor: Dr. Juile Qiaojin LIN (HKUST (Guangzhou))
 - **[Mar.-Jun. 2024]** COMP3013 Database Management Systems: **“U-Dream” A Study Abroad Information Query Platform**, **Selection Poster in UIC 2nd Dept. of Computer Science-Data Science Poster Conference 2024**, Supervisor: Mr. Tian TANG (BNBU) 
 - **[Mar.-Jun. 2024]** DS3043 Data Processing Workshop II: **eBooks Text Search Engine & CO2 Emissions Data Analytic**, Supervisor: Dr. John Changjiang ZHANG (WKU)
 - **[Oct. 2023-Jun. 2024]** **Cell Slices and Perform Clustering Analysis using Machine Learning**, Supervisor: Dr. Jiaxin CHEN (BNBU)
 
 ## Intern and Visit
-- **[Oct. 2024-Present]** Join **CUHK (Shenzhen) & SRIBD** as Research Intern in Logistics and Smart City following Dr. Lianmin ZHANG
+- **[Jun. 2025-Present]** Join **ARSTI Hong Kong** as Research Intern in AI and Truth Techniques Research Group in HKSAR ITC-STEM Intern Scheme
 - **[Aug.-Sept. 2024]** Join **HKUST (Guangzhou)** as Research Intern in Bioinformatics following Dr. Juile Qiaojin LIN
 
-I am seeking for **Research Intern/Visit Student** position for 2025 Summer.
+I am seeking for **Research Intern/Visit Student** position for 2026 Spring.
 
 {% include_relative _includes/publications.md %}
 
