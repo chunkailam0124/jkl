@@ -32,7 +32,7 @@ I am seeking for **MPhil(MS)-PhD position for 2026 Fall**,  If you are intereste
 - **[Oct. 2023-Jun. 2024]** **Cell Slices and Perform Clustering Analysis using Machine Learning**, Supervisor: Dr. Jiaxin CHEN (BNBU)
 
 ## Intern and Visit
-- **[Jun. 2025-Present]** Join **ARSTI Hong Kong** as Research Intern in AI and Truth Techniques Research Group in HKSAR ITC-STEM Intern Scheme
+- **[Jun. 2025-Present]** Join **Hong Kong Applied Science and Technology Research Institute** as Research Intern in AI and Truth Techniques Research Group in HKSAR ITC-STEM Intern Scheme
 - **[Aug.-Sept. 2024]** Join **HKUST (Guangzhou)** as Research Intern in Bioinformatics following Dr. Juile Qiaojin LIN
 
 I am seeking for **Research Intern/Visit Student** position for 2026 Spring.
