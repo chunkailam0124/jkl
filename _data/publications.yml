@@ -3,13 +3,13 @@ main:
   - title: "CASCADE: Contrastive Adversarial Causal Attribution for Debiasing LLMs at Scale"
     authors: "Xunfei Zhu*, Weitong Li, Junkai Lin"
     conference_short: "PRICAI (CCF-C, CORE-B)"
-    conference: "Submitted to the Pacific Rim International Conference on Artificial Intelligence (PRICAI), Under Review, 2025"
+    conference: "Submitted to the Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2025"
     notes: "Under Review"
 
   - title: "Design and Implementation of a Multifunctional Desktop Pet Robot Dog Based on Arduino Nano and ESP32-S3"
     authors: "Di Li, Junkai Lin, Siqi Hou, Yanyan Ji*"
     conference_short: "ICIRA 2025"
-    conference: "Submitted to the 18th International Conference on Intelligent Robotics and Applications (ICIRA), Under Review, 2025"
+    conference: "Submitted to the 18th International Conference on Intelligent Robotics and Applications (ICIRA), 2025"
     notes: "Under Review"
 
   # 以下为之前的旧数据样式，可取消注释继续使用
