@@ -1,16 +1,21 @@
 main:
+- title: "Domain-Adaptive Fine-Tuning of HI-Diff for Enhanced Microscopy Deblurring and Bacterial Flagellar Motor Localization"
+    authors: "Junkai Lin*, Weitong Li†, Di Li†"
+    conference_short: "ICVRV (CCF-C)"
+    conference: "Proceedings of the 2025 IEEE International Conference on Virtual Reality and Visualization"
+    notes: "Accept"
 
-  - title: "CASCADE: Contrastive Adversarial Causal Attribution for Debiasing LLMs at Scale"
-    authors: "Xunfei Zhu*, Weitong Li, Junkai Lin"
+  - title: "PRISM: Principled Reasoning for Identifying and Suppressing Model Biases at Scale"
+    authors: "Xunfei Zhu*†, Weitong Li†, Junkai Lin"
     conference_short: "PRICAI (CCF-C, CORE-B)"
-    conference: "Submitted to the Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2025"
-    notes: "Under Review"
+    conference: "Proceedings of the Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2025"
+    notes: "Accept"
 
   - title: "Design and Implementation of a Multifunctional Desktop Pet Robot Dog Based on Arduino Nano and ESP32-S3"
-    authors: "Di Li, Junkai Lin, Siqi Hou, Yanyan Ji*"
-    conference_short: "ICIRA 2025"
-    conference: "Submitted to the 18th International Conference on Intelligent Robotics and Applications (ICIRA), 2025"
-    notes: "Under Review"
+    authors: "Di Li†, Junkai Lin†, Siqi Hou†, Yanyan Ji*"
+    conference_short: "ICIRA 2025(Qualis-B4)"
+    conference: "Proceedings of the 18th International Conference on Intelligent Robotics and Applications (ICIRA), 2025"
+    notes: "Accept"
 
   # 以下为之前的旧数据样式，可取消注释继续使用
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
