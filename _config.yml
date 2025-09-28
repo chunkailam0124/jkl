@@ -1,8 +1,8 @@
 # Basic Information 
 title: LIN Junkai (Jack)
 position: B.Sc Student (HKBU)
-affiliation: BNU-HKBU UIC
-email: s230033024 (at) uic.edu.cn 
+affiliation: Beijing Normal-Hong Kong Baptist University
+email: s230033024 (at) uic.edu.cn, linjunkai.hkbu (at) gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -14,8 +14,8 @@ canonical: https://minimal-light-theme.yliu.me/
 # If you don't need one of them, you may delete the corresponding line.
 #google_scholar: https://scholar.google.com/
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-#linkedin: https://www.linkedin.com/
+#github_link: https://github.com/
+linkedin: https://www.linkedin.com/in/junkai-lin-b5908a307/
 #twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
