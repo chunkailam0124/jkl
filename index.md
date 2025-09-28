@@ -22,9 +22,9 @@ I am seeking for **MPhil(MS-Research Based)/PhD position for 2026 Fall**,  If yo
 - **[Sept. 2025]** I got a Medal at Kaggle for NeurIPS - Open Polymer Prediction 2025 [Ranking: 5.2%, Bronze Medal]
 - **[Aug. 2025]** My Paper (2nd author) is accept by 22th Pacific Rim International Conference on Artificial Intelligence (PRICAI) 
 - **[Jun. 2025]** My Paper (co-1st author) is accept by 18th International Conference on Intelligent Robotics and Applications (ICIRA)
-- **[Jun. 2025]** I got a Medal at Kaggle for BYU - Locating Bacterial Flagellar Motors 2025 (Kaggle)  [Ranking: 8%, Bronze Medal]
-- **[Dec. 2024]** I got a Medal at Kaggle for UM - Game-Playing Strength of MCTS Variants (Kaggle) [Ranking: 10%, Bronze Medal]
-- **[Sept. 2023]** China Undergraduate Mathematical Contest in Modeling (CUMCM) [Province 3rd Prize]
+- **[Jun. 2025]** I got a Medal at Kaggle for BYU - Locating Bacterial Flagellar Motors 2025 [Ranking: 8%, Bronze Medal]
+- **[Dec. 2024]** I got a Medal at Kaggle for UM - Game-Playing Strength of MCTS Variants [Ranking: 10%, Bronze Medal]
+- **[Sept. 2023]** China Undergraduate Mathematical Contest in Modeling (CUMCM) [Provincial 3rd Prize at Guangdong]
 
 ## Academic Project
 - **[May 2025-Present]** Graduation Thesis (FYP): **Design and Analysis Algorithms of Cluster Analysis base on VGCN and SVC/TSVM(Classification)**, Supervisor: Dr. A.M. Elsawah (BNBU)
